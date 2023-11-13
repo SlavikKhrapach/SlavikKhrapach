@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Slavik, and I'm a Software Developer!
+- Full Stack Web Dev
+- SQL Databases
+- Android Apps
+- Java, Python
+- Agile
 
 <!--
 **SlavikKhrapach/SlavikKhrapach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
