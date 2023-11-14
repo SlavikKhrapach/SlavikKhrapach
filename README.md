@@ -1,13 +1,15 @@
 # Hi there, I'm Slavik, a Software Developer!
 
-- **Looking for an internship/job position**
+- **Looking for an internship/entry job position**
 - **Pursuing a Bachelor's degree in Software Development**
 - **Currently working on a job board website for [Green River College](https://www.greenriver.edu/)**
-  - Utilizing technologies: HTML, CSS, Bootstrap, PHP, f3 framework, SQL.
-- **Connect with me:**
+  - Utilizing technologies: HTML, CSS, Bootstrap, PHP, JS, f3 framework, SQL.
+ 
+    
+### Connect with me:
   - LinkedIn: [linkedin.com/in/slavikkhrapach](https://www.linkedin.com/in/slavikkhrapach/)
-  - Website: [slavik.greenriverdev.com](https://slavik.greenriverdev.com/)
   - Email: SlavikKhrapach@gmail.com
+  - Website: [slavik.greenriverdev.com](https://slavik.greenriverdev.com/)
 
 ### Skills:
 - Full Stack Web Dev
@@ -19,7 +21,7 @@
 ### Projects:
 - **PhotoQuest:**
   - A photo competition website.
-  - Technologies: HTML, CSS, Bootstrap, PHP, f3 framework, SQL.
+  - Technologies: HTML, CSS, Bootstrap, PHP, JS, f3 framework, SQL.
 
 - **Tempo App:**
   - An Android application to store song information for musicians.
