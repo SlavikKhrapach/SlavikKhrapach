@@ -2,8 +2,8 @@
 
 - **Looking for an internship/entry job position**
 - **Pursuing a Bachelor's degree in Software Development**
-- **Currently working on a job board website for [Green River College](https://www.greenriver.edu/)**
-  - Utilizing technologies: HTML, CSS, Bootstrap, PHP, JS, f3 framework, SQL.
+- **Currently contributing to Savi Finance startap, implementing a feature with a team**
+  - Utilizing technologies: TypeScript, JSON RPC, Kubernetes, MongoDB, GraphQL
  
     
 ### Connect with me:
@@ -19,13 +19,23 @@
 - Agile
 
 ### Projects:
-- **PhotoQuest:**
-  - A photo competition website.
-  - Technologies: HTML, CSS, Bootstrap, PHP, JS, f3 framework, SQL.
+- **Savi Finance**
+  - Currently contributing to a team of 60+ developers designing a finance management web application.
+  - Working with an Agile team of 5 to implement CSV upload feature for users to upload transaction info.
+  - The technologies we are using are an S3 Bucket to temporary store uploaded data, JSON RPC microservices to manage the data flow and creation of database models, Kubernetes based workers to process the data and pass it to MongoDB to store as transaction models.
+  - Designed the documentation plan of the implementation process, describing each step in detail, which we will be using to develop the feature.
+
+
+- **Natural Resources Job Board**
+  - Managed an Agile development team to design and implement a website for [Green River College](https://www.greenriver.edu/) department.
+  - The website is now being used by the department to post jobs and announcements.
+  - Designed and implemented the overall structure, Front End, data flow, and login system.  
+  - Technologies used: HTML5, CSS, Bootstrap, PHP, F3 framework, SQL, JavaScript.
+  - https://naturalresourcesjobs.greenrivertech.net
 
 - **Tempo App:**
-  - An Android application to store song information for musicians.
-  - Technologies: Android Studio, Java, SQLite.
+  - Developed an Android app to address a music service need in a church. The app was meant to give fast access to tempos of songs by its number, which significantly reduced the preparation time between songs. It could save, update, and find song information in local SQL database. 
+  - I made it using Java, SQL, and Android Studio.
 
 Feel free to reach out if you have any opportunities or collaborations in mind!
 
